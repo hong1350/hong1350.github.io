@@ -1,1 +1,2 @@
-console.log('这里什么也没有')
+console.clean()
+console.log("这里什么也没有")
