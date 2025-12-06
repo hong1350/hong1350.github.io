@@ -1,7 +1,7 @@
 # 欢迎！
 什么也没有
 # 状态
-![状态](https://img.shields.io/badge/当前状态--手动更新-正常-green)
+![状态](https://img.shields.io/badge/当前状态--手动更新-暂时下线-grey)
 
 或访问[这个页面](https://downforeveryoneorjustme.com/hong1350.dpdns.org)
 # 常见问题
